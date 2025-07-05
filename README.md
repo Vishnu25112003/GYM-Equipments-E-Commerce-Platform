@@ -31,13 +31,21 @@
 ## Folder Structure
 
 GYM-Equipments-E-Commerce-Platform/
+
 │
+
 ├── index.html # Homepage
+
 ├── products.html # Product listing page
+
 ├── supplement.html #supplement listing page
+
 ├── cart.html # Cart page
+
 ├── style.css # Main stylesheet
+
 ├── script.js # JavaScript for cart and interaction
+
 └── assets/ # Images and media
 
 ---
@@ -57,5 +65,7 @@ This project is for learning and demonstration purposes only.
 It is not affiliated with any official gym brands.
 
 Author
+
 Vishnu M
+
 GitHub - https://github.com/Vishnu25112003
